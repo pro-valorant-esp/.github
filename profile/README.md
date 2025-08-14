@@ -19,26 +19,39 @@ The standard minimap only shows what your team can see - our ESP hack reveals ev
 
 ## ESP Feature Breakdown
 1. Core Visibility Features
+
 👁️ Enemy ESP - Reveal all opponents on the map
+
 🛡️ Team Identification - Clearly distinguish allies from enemies
+
 💀 AFK Player Detection - Spot inactive targets for easy eliminations
 
 2. Visual Customization
+
 🎨 Box Styling - Choose from multiple ESP box designs
+
 🌈 Color Coding - Assign different colors for visible/hidden enemies
+
 🖌️ Outline Thickness - Adjust skeleton and box line weights
 
 3. Tactical Advantages
+
 💀 Skeleton ESP - See exact enemy body positioning
+
 🎯 Head Indicators - Perfect your headshot accuracy
+
 ❤️ Health Monitoring - Track enemy vitality for optimal engagement
 
 4. Advanced Intelligence
+
 📏 Distance Tracking - Know exact enemy proximity
+
 🔫 Weapon Identification - See opponent loadouts instantly
+
 📝 Player Identification - Display agent and player names
 
 5. Preview Functionality
+
 👓 ESP Preview Mode - Test your settings before matches
 
 This comprehensive ESP system transforms how you process information in-game, giving you the strategic foresight to always be one step ahead of your opponents.
